@@ -1,0 +1,1 @@
+This is register page . we added a page
